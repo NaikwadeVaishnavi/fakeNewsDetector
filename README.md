@@ -41,10 +41,4 @@ To use the Fake News Detection System, follow these steps:
 
 5. **Prediction**: Deploy the trained model as part of the Fake News Detection System. Users can input news articles, and the system will predict whether they are real or fake based on the trained model.
 
-## Dependencies
 
-The Fake News Detection System may require the following dependencies:
-
-- Python 3.x
-- Machine learning libraries such as scikit-learn, TensorFlow, or PyTorch for model training and prediction.
-- Data preprocessing libraries such as Pandas and NLTK.
